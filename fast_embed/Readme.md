@@ -1,0 +1,1 @@
+this file is used to store the pre-trained model from fastText
